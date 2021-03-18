@@ -1,5 +1,5 @@
 # Rails Layouts And Templates Lab
-
+ 
 ## Objectives
 
 Your task is to build an online store! Okay, maybe not a whole online store, but
